@@ -1,4 +1,3 @@
-const  { JSDOM } = require('jsdom');
 const {createCanvas } = require('canvas');
 class WidthAnalyzer {
     constructor(text,config) {
