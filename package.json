@@ -12,12 +12,15 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/midhun1993/text-width/issues"
   },
   "homepage": "https://github.com/midhun1993/text-width#readme",
   "dependencies": {
     "canvas": "^2.11.2"
+   },
+   "publishConfig": {
+    "@midhunpm:registry": "https://npm.pkg.github.com"
    }
 }
