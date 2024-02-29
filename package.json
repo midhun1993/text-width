@@ -1,7 +1,7 @@
 {
-  "name": "text-width",
+  "name": "@midhunpm/node-text-width",
   "version": "1.0.0",
-  "description": "Find the width of text in node",
+  "description": "Find the width of text in Node JS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,8 +19,5 @@
   "homepage": "https://github.com/midhun1993/text-width#readme",
   "dependencies": {
     "canvas": "^2.11.2"
-   },
-   "publishConfig": {
-    "@midhunpm:registry": "https://npm.pkg.github.com"
-   }
+  }
 }
