@@ -1,6 +1,6 @@
 {
   "name": "@midhunpm/node-text-width",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Find the width of text in Node JS",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/midhun1993/text-width.git"
   },
-  "keywords": [],
+  "keywords": ["Text width", "Width", "Text", "Node text width"],
   "author": "",
   "license": "MIT",
   "bugs": {
